@@ -62,6 +62,7 @@ router.post("/", (req, res) => {
       price: 200.00,
       stock: 3,
       category_id: 1
+      tagIds: [1, 2, 4]
     }
   */
   Product.create({

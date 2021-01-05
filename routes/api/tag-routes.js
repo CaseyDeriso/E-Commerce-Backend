@@ -54,6 +54,10 @@ router.get("/:id", (req, res) => {
 
 router.post("/", (req, res) => {
   // create a new tag
+  // expects
+  // {
+  //   tag_name: 'rock music',
+  // }
   Tag.create(req.body)
     .then((dbTagData) => res.json(dbTagData))
     .catch((err) => {
