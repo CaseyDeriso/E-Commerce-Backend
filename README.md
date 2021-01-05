@@ -1,5 +1,5 @@
 
-# E-Commerce-_Backend
+# E-Commerce-Backend
 
 ![GitHub issues](https://img.shields.io/github/issues/CaseyDeriso/E-Commerce-_Backend) ![GitHub pull requests](https://img.shields.io/github/issues-pr/CaseyDeriso/E-Commerce-_Backend) ![license](https://img.shields.io/github/license/CaseyDeriso/E-Commerce-_Backend) ![GitHub Repo stars](https://img.shields.io/github/stars/CaseyDeriso/E-Commerce-_Backend?style=social) ![GitHub package.json version](https://img.shields.io/github/package-json/v/CaseyDeriso/E-Commerce-_Backend)
 
