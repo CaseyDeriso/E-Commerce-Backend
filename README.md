@@ -21,7 +21,9 @@ This application requires node.js and mysql to be installed on your local machin
 
 This e-commerce back end is a good starting point for building an e-commerce application. 
 
+## Walkthrough
 
+[Walkthrough video](https://youtu.be/E9yeUPnB5kk)
 
 ## Credits
 
